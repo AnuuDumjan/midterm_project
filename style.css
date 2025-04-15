@@ -16,27 +16,27 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: var(--bg);
-  color: var(--text);
+  background-color:#fffdf7;
+  color: #333;
   line-height: 1.6;
   padding: 0;
 }
 
 header {
-  background-color: var(--primary);
+  background-color: #d44d4d;
   color: white;
   padding: 20px;
   text-align: center;
 }
 
 nav {
-  background-color: var(--accent);
+  background-color: #F5DEB3;
   padding: 10px;
   text-align: center;
 }
 
 nav a {
-  color: var(--text);
+  color:  #333;
   margin: 0 15px;
   text-decoration: none;
   font-weight: bold;
@@ -51,7 +51,7 @@ main {
 }
 
 footer {
-  background-color: var(--primary);
+  background-color: #d44d4d;
   color: white;
   text-align: center;
   padding: 10px;
@@ -99,7 +99,7 @@ section img{
 }
 
 button {
-  background-color: var(--primary);
+  background-color: #d44d4d;
   color: white;
   padding: 10px 20px;
   border: none;
