@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 :root {
-  --primary: #A52A2A;
+  --primary: #d44d4d;
   --accent: #F5DEB3;
   --bg: #fffdf7;
   --text: #333;
@@ -62,6 +62,15 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: 8px;
+}
+section img{
+  height: 400px;
+  align-items: center;
+}
+#main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Flexbox layout for menu/gallery */
