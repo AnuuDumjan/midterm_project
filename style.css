@@ -1,17 +1,18 @@
 /* style.css */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-:root {
+/* :root {
   --primary: #d44d4d;
   --accent: #F5DEB3;
   --bg: #fffdf7;
   --text: #333;
-}
+} */
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  /* height: 100vh; */
 }
 
 body {
