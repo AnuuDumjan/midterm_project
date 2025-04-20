@@ -88,6 +88,14 @@ section img{
   border-radius: 8px;
   width: 300px;
   background: #fff;
+  .menu {
+  text-align: center;
+  padding: 2rem;
+}
+.menu ul {
+  list-style: none;
+}
+
 }
 
 .contact-form input,
