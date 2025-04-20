@@ -83,11 +83,11 @@ section img{
 }
 
 .menu-item, .gallery-item {
-  border: 1px solid #ccc;
+  border: 1px solid #d2c0c0;
   padding: 15px;
   border-radius: 8px;
   width: 300px;
-  background: #fff;
+  background: #8fb7c9;
   .menu {
   text-align: center;
   padding: 2rem;
