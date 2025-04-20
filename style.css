@@ -52,11 +52,9 @@ main {
 }
 
 footer {
-  background-color: #d44d4d;
-  color: white;
+  background-color: #ca699d;
   text-align: center;
-  padding: 10px;
-  margin-top: 40px;
+  padding: 1rem;
 }
 
 img {
