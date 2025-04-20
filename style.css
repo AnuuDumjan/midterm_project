@@ -102,9 +102,9 @@ section img{
 .contact-form textarea {
   width: 80%;
   padding: 10px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   border-radius: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #483dbc;
 }
 
 button {
