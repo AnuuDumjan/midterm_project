@@ -52,7 +52,7 @@ main {
 }
 
 footer {
-  background-color: #cf7faa;
+  background-color: #decadf;
   text-align: center;
   padding: 1rem;
 }
@@ -85,7 +85,7 @@ section img{
   padding: 15px;
   border-radius: 8px;
   width: 300px;
-  background: #8fb7c9;
+  background: #cee7db;
   .menu {
   text-align: center;
   padding: 2rem;
