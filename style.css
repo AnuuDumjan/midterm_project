@@ -24,8 +24,8 @@ body {
 }
 
 header {
-  background-color: #d44d4d;
-  color: white;
+  background-color: #84d3c3;
+  color: rgb(10, 1, 1);
   padding: 20px;
   text-align: center;
 }
@@ -52,7 +52,7 @@ main {
 }
 
 footer {
-  background-color: #ca699d;
+  background-color: #cf7faa;
   text-align: center;
   padding: 1rem;
 }
