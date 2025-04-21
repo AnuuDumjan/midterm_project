@@ -90,6 +90,15 @@ section img{
 }
 
 }
+.menu-item {
+  text-align: center; 
+  margin: 5px; 
+}
+
+.menu-item h3, .menu-item p, .menu-item strong {
+  margin: 10; 
+  padding: 10px ; 
+}
 
 .contact-form input,
 .contact-form textarea {
